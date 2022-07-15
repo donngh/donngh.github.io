@@ -1,0 +1,10 @@
+<div #montantTaxe>
+	Ny hetra tokony haloanao dia {{ data.taxAmount | number }} Ariary
+	<mat-dialog-actions>
+		<button mat-raised-button color="primary" (click)="onSaveValues()"> Tahiriziko </button>
+		<button mat-raised-button color="warn" [mat-dialog-close]="true">Hiverina</button>
+		<!-- <button mat-raised-button color="accent" (click)="this.dmiService.printComponent('montantTaxe');"> Printy </button> -->
+		<!-- <button mat-raised-button color="accent" onclick="window.print()"> Printy </button> -->
+	</mat-dialog-actions>
+
+</div>
