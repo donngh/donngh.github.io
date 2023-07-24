@@ -8,9 +8,9 @@
   <p align="center">
     Simulateur de calcul d'impôt foncier sur les propriétés bâties
     <br>
-    <a href="https://github.com/donngh/">Rapporter des bugs</a>
+    <a href="mailto:rakotoniarivoi@gmail.com">Rapporter des bugs</a>
     ·
-    <a href="https://github.com/donngh/">Améliorer</a>
+    <a href="mailto:rakotoniarivoi@gmail.com">Demander des améliorations</a>
   </p>
 </p>
 
@@ -25,20 +25,20 @@
 
 ## Démarrage rapide
 
-- Naviguez sur [cette page github](https://donngh.github.io/)
-- Remplir les informations sur la propriété bâtie pour évaluer l'impôt applicable
-- La valeur minimale est définie à 2.000Ar, le mode de calcul prend en compte toutes les caractéristiques du bien
+- Naviguez sur [cette page github](https://donngh.github.io/).
+- Remplir les informations sur la propriété bâtie pour évaluer l'impôt applicable.
+- La valeur minimale est définie à 2.000Ar, le mode de calcul prend en compte toutes les caractéristiques du bien.
 
 ## Fonctionnalités
 
-- Calcul Montant IFPB sans abattement (En fonction des diverses paramètres concernant le bien)
-- Calcul Montant IFPB avec abattement (En fonction des caractéristiques en plus de la grille de réduction d'impôt)
-- Ajout/Suppression unité d'occupation 
-- I18n : langue MG et FR
+- Calcul Montant IFPB sans abattement (En fonction des diverses paramètres concernant le bien).
+- Calcul Montant IFPB avec abattement (En fonction des caractéristiques en plus de la grille de réduction d'impôt).
+- Ajout/Suppression unité d'occupation.
+- I18n : langue MG et FR.
+- Sauvegarde/Restauration des informations du bien pour utilisation ultérieure.
 
 
 Structure des dossiers et fichiers du projet: 
-
 ```text
 .
 └── 3rdpartylicenses.txt
@@ -57,10 +57,10 @@ Structure des dossiers et fichiers du projet:
 ```
 
 ## Createur
-<https://github.com/donngh/>
+- [Donnatien](<https://github.com/donngh/>)
 
 ## Copyright et licence
 
-Code et documentation copyright 2022 l'auteur. Code publié sous la licence [3rd party License](https://github.com/donngh/donngh.github.io/blob/main/3rdpartylicenses.txt)
+Code et documentation copyright 2022 l'auteur. Code publié sous la licence [3rd party License](https://github.com/donngh/donngh.github.io/blob/main/3rdpartylicenses.txt).
 
-Enjoy
+Enjoy !!
